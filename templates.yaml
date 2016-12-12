@@ -1,2 +1,2 @@
-jack: Jack loves Cassie and Walter
+hello: Hello, {{ firstname }}
 
