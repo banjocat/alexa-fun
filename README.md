@@ -2,4 +2,4 @@
 Trying out alexa skills
 
 #### What does it do?
-It is a working skill. That I used to give my wife a laugh.
+It is a working skill. That I use to give my wife a laugh.
