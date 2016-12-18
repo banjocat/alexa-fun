@@ -1,0 +1,14 @@
+NoIntent No
+YesIntent yes
+YesIntent Of course
+YesIntent yeah
+YesIntent Walter is the best baby
+YesIntent Walter is the best
+HelloIntent hello
+HelloIntent hi
+HelloIntent walter
+MeowIntent meow
+MeowIntent monster
+MeowIntent ollie
+MeowIntent cats
+MeowIntent cat
