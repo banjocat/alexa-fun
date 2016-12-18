@@ -36,7 +36,5 @@ def yes_intent():
     return statement(yes)
 
 
-
-
 if __name__ == '__main__':
     app.run(debug=True)
