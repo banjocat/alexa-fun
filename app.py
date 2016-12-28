@@ -22,7 +22,7 @@ def hello():
 
 @ask.intent('MeowIntent')
 def cats():
-    meow = 'Meow is not an answer. It is true that you have two cats named Monster and Ollie, but I asked if Walter is the best baby. Please answer!'
+    meow = 'Cats is not an answer. It is true that you have two cats named Monster and Ollie, but I asked if Walter is the best baby. Please answer!'
     return question(meow).reprompt(REPROMPT_TEXT)
 
 @ask.intent('NoIntent')
